@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.172215
+  lightness: 0.6472431
+  brandStrength: 0.2957394
+  brandColors:
+    - '#EAE0CF'
+    - '#1F150D'
+    - '#FB0E17'
+    - '#887865'
+    - '#5C4B39'
+  rhythmicContrast: 0.06954888
+typography_spectrum: 0.5407268
+name: art by nats
